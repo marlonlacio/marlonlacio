@@ -1,4 +1,4 @@
-<h2  align="center">Olá meu nome é Marlon, sou desenvolvendor front-end junior</h2>
+<h2  align="center">Olá meu nome é Marlon, sou desenvolvedor front-end junior</h2>
 <p>
 Estou cursando análise e desenvolvimento de sistemas, estudo desenvolvimento front-end diariamente, com foco em me tornar um desenvolvedor de sites.
 </p>
