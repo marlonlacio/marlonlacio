@@ -25,9 +25,10 @@ Minhas redes sociais:
 </div>
 
 
+
 <div  align="center">
 <a href="https://github.com/marlonlacio" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api?username=marlonlacio&show_icons=true&bg_color=DEG,4E5E82,00081A&text_color=A3BCBC&icon_color=A3BCBC&title_color=B9B3CB&hide_border=true&border_radius=20" width="48%" height="150" target="_blank"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=marlonlacio&show_icons=true&bg_color=DEG,4E5E82,00081A&text_color=A3BCBC&icon_color=A3BCBC&title_color=B9B3CB&hide_border=true&border_radius=20" width="40%" target="_blank"></a>
 <a href="https://github.com/marlonlacio" target="_blank">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonlacio&show_icons=true&bg_color=DEG,4E5E82,00081A&text_color=A3BCBC&icon_color=A3BCBC&title_color=B9B3CB&hide_border=true&border_radius=20" width="48%" height="150" target="_blank"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlonlacio&show_icons=true&bg_color=DEG,4E5E82,00081A&text_color=A3BCBC&icon_color=A3BCBC&title_color=B9B3CB&hide_border=true&border_radius=20" width="40%" target="_blank"></a>
 </div>
