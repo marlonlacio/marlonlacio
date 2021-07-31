@@ -2,7 +2,7 @@
 <p>
 Estou cursando análise e desenvolvimento de sistemas, estudo desenvolvimento front-end diariamente, com foco em me tornar um desenvolvedor de sites.
 </p>
-
+    <img width="30%" src="https://cdn.pixabay.com/photo/2017/09/01/00/16/png-2702697_1280.png" align="right";>
 <div>
 Linguagens aprendidas:
 <ul>
@@ -21,9 +21,11 @@ Minhas redes sociais:
 <li><a href="https://instagram.com/marlonlacio/" target="_blank">
 <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?&logo=instagram&logoColor=A3BCBC" target="_blank">
 </a></li>
+  <li><a href="https://codepen.io/marlon-lacio" target="_blank">
+<img src="https://img.shields.io/badge/CODEPEN-E4405F?&logo=codepen&logoColor=A3BCBC" target="_blank">
+</a></li>
 </ul>
 </div>
-
 
 
 <div  align="center">
