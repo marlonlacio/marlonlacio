@@ -18,7 +18,7 @@ Minhas redes sociais:
 <li><a href="https://www.linkedin.com/in/marlonlacio/" target="_blank">
 <img src="https://img.shields.io/badge/LINKEDIN-0077B5?&logo=linkedin&logoColor=A3BCBC" target="_blank">
 </a></li>
-<li><a href="https://instagram.com/marlonlacio/" target="_blank">
+<li><a href="marlonlaciobr@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/GMAIL-D14836?&logo=gmail&logoColor=A3BCBC" target="_blank">
 </a></li>
 <li><a href="https://instagram.com/marlonlacio/" target="_blank">
